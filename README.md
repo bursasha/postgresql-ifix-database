@@ -1,4 +1,4 @@
-# A semester university (ČVUT FIT) project on creating a database,create script, insert script, schemas, and queries over a database on PostgreSQL 📊
+# A semester university (ČVUT FIT) project on creating a database, create script, insert script, schemas, and queries over a database on PostgreSQL 📊
 
 ## Database description:
 A year ago, in January 2021 (the 1st of January), a chain of iFix service centers opened in England, focusing primarily on repairing devices from different manufacturers, as well as selling various accessories for gadgets.
