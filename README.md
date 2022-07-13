@@ -24,3 +24,11 @@ And, of course, in addition to people and branches, their addresses are stored i
 
 ## Relational scheme:
 ![Relational scheme](/assets/relational_scheme.png)
+
+## Sources:
+- https://users.fit.cvut.cz/~hunkajir/dbs2/main.xml#D17
+- https://users.fit.cvut.cz/~hunkajir/dbs/main.xml
+- https://www.postgresql.org/files/documentation/pdf/12/postgresql-12-A4.pdf
+- https://stackoverflow.com/
+- https://www.mockaroo.com/
+- https://courses.fit.cvut.cz/BI-DBS/
