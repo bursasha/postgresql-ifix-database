@@ -1,6 +1,6 @@
 # A semester university (ČVUT FIT) project on creating a database, create script, insert script, schemas, and queries over a database on PostgreSQL 📊
 
-## Database description:
+## iFix Service Center Chain database description:
 A year ago, in January 2021 (the 1st of January), a chain of iFix service centers opened in England, focusing primarily on repairing devices from different manufacturers, as well as selling various accessories for gadgets.
 
 All branches of the chain of service centers maintain personal databases, all customers and employees receive their own identification number by the registration, everybody indicates their first name, last name, phone number, and can leave their email as an additional way of communicating with the service center. Employees, in turn, are recorded with their working position, salary, and date of employment in the database. Each branch has several technicians (from 2 to 5), who are managed by one manager.
